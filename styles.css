@@ -1,0 +1,65 @@
+/* add your CSS here */
+body {
+	font-family: Cambria, Arial, Helvetica, sans-serif;
+	background-color: #fff;
+	border: solid;
+	border-color: #ddd;
+	box-shadow: 6px 6px 5px #cecece;
+	margin: 2%;
+	width: 320px;
+}
+
+
+img {
+	width: 300px;
+    display: block;
+    margin: auto;
+	border: solid;
+	border-color: #ddd;
+}
+
+
+h3 {
+	margin-left: 2%;
+}
+
+
+.paragraphs {
+	background-color: #fff;
+	border: solid;
+	border-color: #ddd;
+	margin: 2%;
+}
+
+
+ul {
+	list-style-type: none;
+	
+}
+
+
+.items {
+	font-style: italic;
+	font-weight: bold;
+}
+
+
+p {
+	margin: 2%;
+}
+
+
+.interesting-facts {
+	font-family: Cambria, sans-serif;
+	font-style: italic;
+}
+
+
+hr { 
+	color:  #ddd;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-width: 1px;
+}
